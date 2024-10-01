@@ -1,5 +1,6 @@
 # Fast-Tech-Online-NK
 https://fasttechonline.netlify.app/
+https://youtu.be/nW7l2_Q5PAM
 
 ![FAST TECH ONLINE - Google Chrome 10_1_2024 10_34_20 PM](https://github.com/user-attachments/assets/eab22775-8e00-40bf-aad8-ce288501f92b)
 
